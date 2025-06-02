@@ -1,0 +1,20 @@
+Jan 23, 2024 11:14:28 AM de.unibonn.realkd.data.xarf.XarfParsing parse
+INFO: Parsing input file
+Jan 23, 2024 11:14:28 AM de.unibonn.realkd.data.xarf.XarfParsing parse
+INFO: Done parsing ARFF file
+Jan 23, 2024 11:14:29 AM de.unibonn.realkd.data.table.CSV csvStringListToListOfLists
+INFO: Done reading data (1076 number of rows)
+Jan 23, 2024 11:14:29 AM de.unibonn.realkd.data.xarf.Xarf attributes
+INFO: Done creating attributes (21 attributes created)
+Jan 23, 2024 11:14:29 AM de.unibonn.realkd.data.xarf.Xarf derivedAttributes
+INFO: Done creating derived attributes (0 derived attributes created)
+Jan 23, 2024 11:14:29 AM de.unibonn.realkd.data.propositions.StandardPropositionalizationScheme apply
+INFO: Done compiling proposition list (840 propositions added)
+Jan 23, 2024 11:14:29 AM de.unibonn.realkd.common.workspace.Workspaces$WorkspaceWithFileBackups storeInFile
+INFO: writing backup: population_of_std_dev
+Jan 23, 2024 11:14:29 AM de.unibonn.realkd.common.workspace.Workspaces$WorkspaceWithFileBackups storeInFile
+INFO: writing backup: std_dev
+Jan 23, 2024 11:14:29 AM de.unibonn.realkd.common.workspace.Workspaces$WorkspaceWithFileBackups storeInFile
+INFO: writing backup: statements_about_std_dev
+Jan 23, 2024 11:16:25 AM de.unibonn.realkd.common.workspace.Workspaces$WorkspaceWithFileBackups storeInFile
+INFO: writing backup: $results_of_subgroup_analysis

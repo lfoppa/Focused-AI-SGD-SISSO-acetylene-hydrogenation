@@ -1,0 +1,18 @@
+Jan 23, 2024 11:14:29 AM de.unibonn.realkd.common.parameter.ParameterContainer lambda$pass$4
+WARNING: Parameter value of dev_measure could not be passed to container.
+Jan 23, 2024 11:14:29 AM de.unibonn.realkd.common.parameter.ParameterContainer lambda$pass$4
+WARNING: Parameter value of cov_weight could not be passed to container.
+Jan 23, 2024 11:14:29 AM de.unibonn.realkd.run.LegacyComputationSpecification build
+INFO: accepted parameter values:
+table=std_dev
+targets=[X_acetylene]
+modeling=Empirical distribution
+purity_measure=std. reduction
+props=Statements about std_dev
+attr_filter=[]
+seed_dist=P(x)=freq(x)^a
+a=1
+post_proc=LinearRandomPruner
+obj_func=frequency*gain
+num_res=5000
+num_seeds=50000
